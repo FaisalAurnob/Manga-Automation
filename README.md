@@ -35,28 +35,44 @@ following scenarios, which will be replicated
 
 6.Manga Search and Display
 
-
 ### Manga Search and Display
 1.Ensure the user is on the manga search page.
+
 2.Enter the search term "Naruto" into the search box.
+
 3.Click the "Search" button.
+
 4.Verify that manga cards with the name "Naruto" are displayed.
+
 5.Enter the search term "One Piece" into the search box.
+
 6.Click the "Search" button.
+
 7.Verify that manga cards with the name "One Piece" are displayed.
+
 8.Enter the search term "Seven Deadly Sins" into the search box.
+
 9.Click the "Search" button.
+
 10.Verify that manga cards with the name "Seven Deadly Sins" are displayed.
+
 11.Enter a search term that returns no results (e.g., "No manga found").
+
 12.Click the "Search" button.
+
 13.Verify that a "No manga found" message is displayed.
+
 14.Manga Details Modal
 
 ### Manga Details Modal
 1.Ensure the user is on the manga search page.
+
 2.Click the "Details" link on a manga card.
+
 3.Verify that the modal appears and displays the correct manga information (image, name, summary).
+
 4.Click the "Close" button on the modal.
+
 5.Verify that the modal is closed and no longer visible."
 
 ## Video
