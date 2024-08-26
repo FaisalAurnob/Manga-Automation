@@ -24,11 +24,17 @@ following scenarios, which will be replicated
 
 ### Login Functionality
 1.Open the application.
+
 2.Verify that the login page is displayed.
+
 3.Enter valid login credentials (e.g., testuser and password).
+
 4.Click the "Login" button.
+
 5.Verify that the user is redirected to the manga search page.
+
 6.Manga Search and Display
+
 
 ### Manga Search and Display
 1.Ensure the user is on the manga search page.
