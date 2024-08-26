@@ -22,42 +22,36 @@ The project uses the following:
 ## Target/goals
 following scenarios, which will be replicated
 
-###Login Functionality
-Scenario: Verify that the login functionality works correctly.
-Steps:
-Open the application.
-Verify that the login page is displayed.
-Enter valid login credentials (e.g., testuser and password).
-Click the "Login" button.
-Verify that the user is redirected to the manga search page.
-Manga Search and Display
+### Login Functionality
+1.Open the application.
+2.Verify that the login page is displayed.
+3.Enter valid login credentials (e.g., testuser and password).
+4.Click the "Login" button.
+5.Verify that the user is redirected to the manga search page.
+6.Manga Search and Display
 
-###Manga Search and Display
-Scenario: Verify that searching for manga returns the correct results.
-Steps:
-Ensure the user is on the manga search page.
-Enter the search term "Naruto" into the search box.
-Click the "Search" button.
-Verify that manga cards with the name "Naruto" are displayed.
-Enter the search term "One Piece" into the search box.
-Click the "Search" button.
-Verify that manga cards with the name "One Piece" are displayed.
-Enter the search term "Seven Deadly Sins" into the search box.
-Click the "Search" button.
-Verify that manga cards with the name "Seven Deadly Sins" are displayed.
-Enter a search term that returns no results (e.g., "No manga found").
-Click the "Search" button.
-Verify that a "No manga found" message is displayed.
-Manga Details Modal
+### Manga Search and Display
+1.Ensure the user is on the manga search page.
+2.Enter the search term "Naruto" into the search box.
+3.Click the "Search" button.
+4.Verify that manga cards with the name "Naruto" are displayed.
+5.Enter the search term "One Piece" into the search box.
+6.Click the "Search" button.
+7.Verify that manga cards with the name "One Piece" are displayed.
+8.Enter the search term "Seven Deadly Sins" into the search box.
+9.Click the "Search" button.
+10.Verify that manga cards with the name "Seven Deadly Sins" are displayed.
+11.Enter a search term that returns no results (e.g., "No manga found").
+12.Click the "Search" button.
+13.Verify that a "No manga found" message is displayed.
+14.Manga Details Modal
 
-###Manga Details Modal
-Scenario: Verify that the modal displays the correct manga details.
-Steps:
-Ensure the user is on the manga search page.
-Click the "Details" link on a manga card.
-Verify that the modal appears and displays the correct manga information (image, name, summary).
-Click the "Close" button on the modal.
-Verify that the modal is closed and no longer visible."
+### Manga Details Modal
+1.Ensure the user is on the manga search page.
+2.Click the "Details" link on a manga card.
+3.Verify that the modal appears and displays the correct manga information (image, name, summary).
+4.Click the "Close" button on the modal.
+5.Verify that the modal is closed and no longer visible."
 
 ## Video
 https://drive.google.com/file/d/1eU2iULt7KGwTmOvW84bv0BvW3l9-O-R2/view?usp=sharing
