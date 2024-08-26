@@ -76,5 +76,5 @@ following scenarios, which will be replicated
 5.Verify that the modal is closed and no longer visible."
 
 ## Video
-https://drive.google.com/file/d/1eU2iULt7KGwTmOvW84bv0BvW3l9-O-R2/view?usp=sharing
+https://drive.google.com/file/d/1VXjvz15nZLCJpvUq8D5j99uT8_ThYJhP/view?usp=sharing
 
