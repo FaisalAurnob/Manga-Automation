@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-26T19:30:17 BDT" name="Default suite" finished-at="2024-08-26T19:30:36 BDT" duration-ms="18960">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T19:30:17 BDT" name="Default test" finished-at="2024-08-26T19:30:36 BDT" duration-ms="18960">
+      <class name="test.automation.myalice.testcases.TestScenario02">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:test.automation.myalice.testcases.TestScenario02@3e08ff24]" started-at="2024-08-26T19:30:17 BDT" name="setUpTest" finished-at="2024-08-26T19:30:20 BDT" duration-ms="3220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="Search()[pri:0, instance:test.automation.myalice.testcases.TestScenario02@3e08ff24]" started-at="2024-08-26T19:30:20 BDT" name="Search" description="Scenario: Verify that searching for manga returns the correct results.
+Steps:
+1. Ensure the user is on the manga search page.
+2. Enter the search term &#039;Naruto&#039; into the search box.
+3. Click the &#039;Search&#039; button.
+4. Verify that manga cards with the name &#039;Naruto&#039; are displayed.
+5. Enter the search term &#039;One Piece&#039; into the search box.
+6. Click the &#039;Search&#039; button.
+7. Verify that manga cards with the name &#039;One Piece&#039; are displayed.
+8. Enter the search term &#039;Seven Deadly Sins&#039; into the search box.
+9. Click the &#039;Search&#039; button.
+10. Verify that manga cards with the name &#039;Seven Deadly Sins&#039; are displayed.
+11. Enter a search term that returns no results (e.g., &#039;No manga found&#039;).
+12. Click the &#039;Search&#039; button.
+13. Verify that a &#039;No manga found&#039; message is displayed.
+" finished-at="2024-08-26T19:30:20 BDT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:test.automation.myalice.testcases.TestScenario02@3e08ff24]" started-at="2024-08-26T19:30:20 BDT" name="tearDownTest" finished-at="2024-08-26T19:30:36 BDT" duration-ms="15556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.automation.myalice.testcases.TestScenario02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
